@@ -1,0 +1,16 @@
+p {
+  margin: 10px 0 !important;
+}
+.login-container {
+  width: 400px;
+  margin-top: 50px;
+  text-align: center;
+}
+ul:not(.browser-default) > li {
+  list-style-type: disc;
+  text-align: start;
+}
+.body-tag {
+  text-align: start;
+  padding: 10px;
+}
